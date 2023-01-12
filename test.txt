@@ -1,0 +1,14 @@
+\#Hello, World!.
+#How are you?, I am trying to build a basic version of a transpiler.
+#Bye.
+This my first markdone!.
+#This is a heading Line.
+This is a paragraph line.
+-*This is a Bold Line.
+This -word is bold.
+* This is a point
+* This a second point!
+* Wow!!!
+* Amazing!!!
+Bye.
+^
